@@ -17,13 +17,13 @@
 				<key>metadata</key>
 				<dict>
 					<key>bundle-identifier</key>
-					<string>org.liubake.apps</string>
+					<string>com.xinfengxiangs.apps</string>
 					<key>bundle-version</key>
 					<string>5.2.0</string>
 					<key>kind</key>
 					<string>software</string>
 					<key>title</key>
-					<string>App</string>
+					<string>IOS_Shadowrocket</string>
 				</dict>
 			</dict>
 		</array>
